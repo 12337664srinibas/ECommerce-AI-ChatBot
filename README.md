@@ -31,7 +31,7 @@ ShopMart isn’t just an online store – it’s your trusted shopping companion
 - Added a small 1x1 PNG as logo placeholder to avoid broken image icons if original logo is missing.
 
 ## How to run:
-- Inside the Index.HTML inside the Vs Code Environment , Click on the  Go Live below right corner and the web page will load and inside the website in the bottom right corner click on the Blue-Coloured Box Saying "Chat With Us 👋". There you can chat with our AI ChatBot named Lyro AI , which will resolve all your queries/Issues related to the Shopping Website.
+- Inside the Index.HTML inside the Vs Code Environment , Click on the  Go Live Option below right corner and the web page will load and inside the website in the bottom right corner click on the Blue-Coloured Box Saying "Chat With Us 👋". There you can chat with our AI ChatBot named Lyro AI , which will resolve all your queries/Issues related to the Shopping Website.
 
 ## Full Working Video - https://drive.google.com/file/d/1VkK5HagFTWK9PP7kM206yWbkr-xTP0Q_/view?usp=sharing 
 
