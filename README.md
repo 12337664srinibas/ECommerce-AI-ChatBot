@@ -32,7 +32,7 @@ ShopMart isn’t just an online store – it’s your trusted shopping companion
 - Technology Used - HTML, CSS and JavaScript
 - Platform - VS Code
 - Inside VS Code , Click on "Go Live" and you will be redirected to the Website , there below right corner you will see a Blue-Coloured Message Box , Click on it and there you will chat with our AI-Assistant.
-- The ChatBot will Understand You Queries , that you type in the chat box , and will reply you as per your Query.
+- The ChatBot will Understand Your Queries , that you type in the chat box , and will reply you as per your Query.
 - I Created this ChatBox in Tidio Platform , and gave him the knowledge that are required for am AI-Shopping Assistant in order to answer a Customer's Queries.
 - The ChatBot's name is Lyra AI Agent which is developed in Tidio Platform and after creating the ChatBot , I added this inside my E-Commerce Website. 
 
