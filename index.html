@@ -501,14 +501,29 @@
 
   <!-- Chat widget HTML -->
   <div id="chat-widget" aria-hidden="true">
-    <div class="chat-button" id="chatToggle"><i class="fa-solid fa-robot"></i> Chat</div>
+    <div class="chat-button" id="chatToggle">
+      <i class="fa-solid fa-robot"></i> 
+      Chat with Lyra AI
+    </div>
     <div class="chat-window" id="chatWindow" role="dialog" aria-label="ShopMart Assistant" style="display:none">
-      <div class="chat-header"><strong>ShopMart Assistant</strong><button id="chatClose" aria-label="Close chat">&times;</button></div>
+      <div class="chat-header">
+        <div>
+          <strong>🤖 Lyra AI Assistant</strong>
+          <div style="font-size: 12px; opacity: 0.9;">Always here to help</div>
+        </div>
+        <button id="chatClose" aria-label="Close chat">&times;</button>
+      </div>
       <div class="chat-messages" id="chatMessages" role="log" aria-live="polite"></div>
-      <div class="chat-input"><input id="chatInput" placeholder="Ask about orders, returns, products..." aria-label="Type your message"/><button id="chatSend">Send</button></div>
+      <div class="chat-input">
+        <input id="chatInput" placeholder="Ask about orders, returns, products..." aria-label="Type your message"/>
+        <button id="chatSend" aria-label="Send message">
+          <i class="fa-solid fa-paper-plane"></i>
+        </button>
+      </div>
     </div>
   </div>
 
+  <script src="chatbot/enhanced-chat.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

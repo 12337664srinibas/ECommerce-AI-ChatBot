@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "category": "electronics",
+    "description": "High-quality wireless headphones with noise cancellation",
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Band",
+    "price": 49.99,
+    "category": "electronics",
+    "description": "Track your fitness goals with this smart wearable device",
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 30,
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mechanical Keyboard",
+    "price": 129.99,
+    "category": "gaming",
+    "description": "RGB mechanical keyboard perfect for gaming",
+    "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 25,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "category": "gaming",
+    "description": "High-precision gaming mouse with customizable buttons",
+    "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 40,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Mystery Thriller Novel",
+    "price": 14.99,
+    "category": "books",
+    "description": "Bestselling mystery thriller that will keep you on edge",
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Science Fiction Novel",
+    "price": 16.99,
+    "category": "books",
+    "description": "Epic sci-fi adventure in distant galaxies",
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 75,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "category": "lifestyle",
+    "description": "Eco-friendly insulated water bottle",
+    "image": "https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 60,
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "name": "Classic Leather Wallet",
+    "price": 39.99,
+    "category": "lifestyle",
+    "description": "Premium leather wallet with multiple card slots",
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "stock": 35,
+    "rating": 4.8
+  }
+]
