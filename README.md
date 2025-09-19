@@ -36,8 +36,8 @@ ShopMart isn’t just an online store – it’s your trusted shopping companion
 - I Created this ChatBox in Tidio Platform , and gave him the knowledge that are required for am AI-Shopping Assistant in order to answer a Customer's Queries.
 - The ChatBot's name is Lyra AI Agent which is developed in Tidio Platform and after creating the ChatBot , I added this inside my E-Commerce Website. 
 
-## Full Working Video - https://drive.google.com/file/d/1VkK5HagFTWK9PP7kM206yWbkr-xTP0Q_/view?usp=sharing 
-
+## Screen Recording 01 - https://drive.google.com/file/d/1E_NpB3sRzlUqH5XeefrL32PV8cfn2NaT/view?usp=sharing
+## Screen Recording 02 - https://drive.google.com/file/d/1qOdp-qhB1xMABGClm9LoC9kfjbQ6r9tH/view?usp=sharing 
 ## Screenshot 1 - <img width="1892" height="887" alt="Screenshot 2025-09-15 004253" src="https://github.com/user-attachments/assets/9c21f20c-4bc1-4a4b-a1bd-43b6ba00ecfd" />
 
 ## ScreenShot 2 - <img width="1883" height="931" alt="Screenshot 2025-09-15 141342" src="https://github.com/user-attachments/assets/f9c50609-7659-4040-bd4a-baaf1d41350e" />
